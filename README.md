@@ -1,6 +1,6 @@
 # Bottle-Defect-Detection
 A deep learning model which is able to identify bottles, predict their material and find out whether they are defective(crushed, cut etc.) or not
-This work was done durigng the course of BITS Pilani PS-1 by team comprising of Ishaan, Jishnu, Javin & Shivank as a project for Plastic Water Labs Prvt. Ltd.
+This work was done during the course of BITS Pilani PS-1 by team comprising of Ishaan, Jishnu, Javin & Shivank as a project for Plastic Water Labs Prvt. Ltd.
 ```
 server_model.py 
 ``` 
