@@ -1,0 +1,30 @@
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Webcam</title>
+</head> -->
+<body>
+    <meta charset="UTF-8">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-8  offset-lg-2">
+                <h2 class="mt-5">Defect detection</h2>
+                <form method="post" action="{{ url_for('tasks') }}">
+                <input type="submit" value="Stop/Start" name="stop" />
+                <input type="submit" value="Capture" name="click"/>
+                </form>
+                <img src="{{ url_for('video_feed') }}" height="80%">
+                <h4 class="mt-5">Model Output:</h4>
+                <li> Type: Normal </li>
+                <li> Material: Glass </li>
+                <li> Color: Smoky Gray </li>
+                <h3 style="font-family:courier;">Instructions:</h3>
+                <ol style="font-family:courier;">
+                <li>Stop/Start--Toggle between stop or start live camera feed</li>
+                <li>Capture--Take still-shot and save in the 'shots' directory</li>
+                
+            </div>
+        </div>
+    </div>
+    </body>
