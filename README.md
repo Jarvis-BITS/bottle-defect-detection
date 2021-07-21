@@ -6,4 +6,4 @@ server_model.py
 ``` 
 can be run when you dont want to run the web-app and simply see how bottles are being segmented
 You must use pip-install to install all necessary dependencies and libraries. We recommend using virtualenv to store all pip-installs 
-2nd-defect.model as the names suggests is a secondary CNN model with a higher accuracy of around 94%, however the frame numpy array from the video needs to be resized in order to fit its custom mask layers. 
+<br> <br>2nd_defect_detect.model as the names suggests is a secondary CNN model with a higher accuracy of around 94%, however the frame numpy array from the video needs to be resized in order to fit its custom mask layers. 
