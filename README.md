@@ -3,7 +3,7 @@ A deep learning model which is able to identify bottles, predict their material 
 This work was done during the course of BITS Pilani PS-1 by team comprising of Ishaan, Jishnu, Javin & Shivank as a project for Plastic Water Labs Prvt. Ltd.
 
 <img src="https://github.com/Jarvis-BITS/bottle-defect-detection/blob/main/Sample-pictures/sample_gif.gif" height=250px align=center>
-<img src="https://github.com/Jarvis-BITS/bottle-defect-detection/blob/main/Sample-pictures/bottle_detection.PNG" height=250px align=left><img src="https://github.com/Jarvis-BITS/bottle-defect-detection/blob/main/Sample-pictures/Color_detection.png" height=250px align=right><img src="https://github.com/Jarvis-BITS/bottle-defect-detection/blob/main/Sample-pictures/Material_detection.PNG" height=250px align=left><img src="https://github.com/Jarvis-BITS/bottle-defect-detection/blob/main/Sample-pictures/defect_detection.PNG" height=250px>
+<img src="https://github.com/Jarvis-BITS/bottle-defect-detection/blob/main/Sample-pictures/bottle_detection.PNG" height=250px><img src="https://github.com/Jarvis-BITS/bottle-defect-detection/blob/main/Sample-pictures/Color_detection.png" height=250px><img src="https://github.com/Jarvis-BITS/bottle-defect-detection/blob/main/Sample-pictures/Material_detection.PNG" height=250px><img src="https://github.com/Jarvis-BITS/bottle-defect-detection/blob/main/Sample-pictures/defect_detection.PNG" height=250px>
 
 ```
 server_model.py 
